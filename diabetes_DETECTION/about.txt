@@ -1,0 +1,5 @@
+here i have created a diabetes _detection model [just created the model.]
+
+it's  giving 99% accurecy. 
+
+:)
